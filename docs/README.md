@@ -9,6 +9,9 @@
 <i class="fa fa-grin-squint-tears fa-4x"><font size=6>  **Stay Hungry, Stay Foolish**</font></i>
 
 # Others
+ - <font size=4>[**科研小道**]()</font>
+ - <font size=4>[**瞎说**]()</font>
+  
 
 ***
 
