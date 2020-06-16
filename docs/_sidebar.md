@@ -8,6 +8,6 @@
   
 * **[Others](https://otnew.github.io/Blog/#/BLOG/Others/Others_Outline)**
  * 科研小道
-  - [常见物种类别名称](BLOG/Others/常见物种类别名称.md)
+	- [常见物种类别名称](BLOG/Others/常见物种类别名称.md)
  * 瞎说
-  - [关于《后浪》的一点感想](BLOG/Others/20200616_1.md)
+	- [关于《后浪》的一点感想](BLOG/Others/20200616_1.md)
