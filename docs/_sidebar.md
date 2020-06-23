@@ -8,6 +8,7 @@
   
 * **[Others](https://otnew.github.io/Blog/#/BLOG/Others/Others_Outline)**
  * 科研小道
+	- [初识 Tmux 终端复用器](BLOG/Others/20200623_2.md)
 	- [玩炸公共服务器 .bashrc 的体面处理方式](BLOG/Others/20200623_1.md)
 	- [常见物种类别名称](BLOG/Others/常见物种类别名称.md)
  * 瞎说
