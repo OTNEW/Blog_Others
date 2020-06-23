@@ -1,7 +1,6 @@
 <img width="200px" src="_logo/logo.png">
 
 # **Others**
-
 玩移液枪的佩奇
 
 自律且自由
